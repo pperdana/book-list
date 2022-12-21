@@ -1,6 +1,6 @@
 import React from "react";
-import Navbar from "./components/navbar.component";
 import BookList from "./components/booklist.component";
+import Navbar from "./components/navbar.component";
 import ThemeContextProvider from "./contexts/ThemeContext";
 import ThemeToggle from "./components/theme-toggle.component";
 
